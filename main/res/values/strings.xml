@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DDIS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1Name">Brazos Tacos</string>
+    <string name="button2Name">Chipotle</string>
+    <string name="button3Name">Christians Pizza</string>
+    <string name="button4Name">Citizen Burger</string>
+    <string name="button5Name">Cucinova</string>
+    <string name="button6Name">Insomnia</string>
+    <string name="button7Name">Sultan Kabob</string>
+    <string name="button8Name">Qdoba</string>
+    <string name="button9Name">Roots</string>
+    <string name="button10Name">Wings Out</string>
+</resources>
